@@ -1,0 +1,18 @@
+project:
+  type: book
+
+book:
+  title: "Imarika Discipleship Class - Scripture Memory and Meditation"
+  author: "B. Kamara"
+  date: "12th April 2025"
+  chapters:
+    - index.qmd
+    - content/page1.qmd
+    - content/page2.qmd
+    - content/page3.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrartcl
